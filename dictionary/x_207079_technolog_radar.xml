@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="Radar" max_length="40" name="x_207079_technolog_radar" type="collection">
+        <element label="Changed" max_length="40" name="u_changed" type="boolean"/>
+        <element attributes="edge_encryption_enabled=true" choice="3" default="Evaluate" label="Classification" mandatory="true" max_length="40" name="u_classification" type="string">
+            <choice>
+                <element label="Adopt" sequence="0" value="Adopt"/>
+                <element label="Trial" sequence="1" value="Trial"/>
+                <element label="Assess" sequence="2" value="Assess"/>
+                <element label="Hold" sequence="3" value="Hold"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="Notes" max_length="1000" name="u_description" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Links" max_length="1000" name="u_links" type="string"/>
+        <element attributes="edge_encryption_enabled=true" choice="3" default="Frameworks" label="Sector" mandatory="true" max_length="40" name="u_sector" type="string">
+            <choice>
+                <element label="Frameworks" sequence="0" value="Frameworks"/>
+                <element label="Platforms" sequence="1" value="Platforms"/>
+                <element label="Testing" sequence="2" value="Testing"/>
+                <element label="Toolkits/Components/Libraries/Language" sequence="3" value="Toolkits/Components/Libraries/Language"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="Technology" mandatory="true" max_length="50" name="u_technology" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Version" mandatory="true" max_length="20" name="u_version" type="string"/>
+    </element>
+</database>

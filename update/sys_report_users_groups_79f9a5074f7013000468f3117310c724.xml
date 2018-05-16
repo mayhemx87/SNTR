@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_report_users_groups">
+    <sys_report_users_groups action="INSERT_OR_UPDATE">
+        <group_id/>
+        <report_id display_value="Radar Classifications">f1f9a5074f7013000468f3117310c724</report_id>
+        <sys_class_name>sys_report_users_groups</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-03-16 20:36:50</sys_created_on>
+        <sys_id>79f9a5074f7013000468f3117310c724</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>f1f9a5074f7013000468f3117310c724</sys_name>
+        <sys_package display_value="Technology Radar" source="x_207079_technolog">388f1d8f4f3013000468f3117310c723</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Technology Radar">388f1d8f4f3013000468f3117310c723</sys_scope>
+        <sys_update_name>sys_report_users_groups_79f9a5074f7013000468f3117310c724</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-03-16 20:36:50</sys_updated_on>
+        <user_id display_value="System Administrator">6816f79cc0a8016401c5a33be04be441</user_id>
+    </sys_report_users_groups>
+</record_update>

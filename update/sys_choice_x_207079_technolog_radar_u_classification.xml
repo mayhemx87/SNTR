@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="u_classification" table="x_207079_technolog_radar" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_classification</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Adopt</label>
+            <language>en</language>
+            <name>x_207079_technolog_radar</name>
+            <sequence>0</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-03-16 20:02:20</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>e41261034f7013000468f3117310c7cb</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-03-16 20:02:20</sys_updated_on>
+            <value>Adopt</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_classification</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Trial</label>
+            <language>en</language>
+            <name>x_207079_technolog_radar</name>
+            <sequence>1</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-03-16 20:02:20</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>281261034f7013000468f3117310c7cc</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-04-03 20:10:16</sys_updated_on>
+            <value>Trial</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_classification</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Assess</label>
+            <language>en</language>
+            <name>x_207079_technolog_radar</name>
+            <sequence>2</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-03-16 20:02:20</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a01261034f7013000468f3117310c7cf</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-04-03 20:11:14</sys_updated_on>
+            <value>Assess</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_classification</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Hold</label>
+            <language>en</language>
+            <name>x_207079_technolog_radar</name>
+            <sequence>3</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-03-16 20:02:20</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>241261034f7013000468f3117310c7ce</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-04-03 20:11:02</sys_updated_on>
+            <value>Hold</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>u_classification</element>
+            <name>x_207079_technolog_radar</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-03-16 20:02:20</sys_created_on>
+            <sys_id>e01261034f7013000468f3117310c7cc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>u_classification</sys_name>
+            <sys_package display_value="Technology Radar" source="x_207079_technolog">388f1d8f4f3013000468f3117310c723</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Technology Radar">388f1d8f4f3013000468f3117310c723</sys_scope>
+            <sys_update_name>sys_choice_x_207079_technolog_radar_u_classification</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-03-16 20:02:20</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>

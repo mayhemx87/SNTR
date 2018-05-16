@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="u_changed" label="Changed" language="en" table="u_imp_tmpl_x_207079_technolog_radar">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>u_changed</element>
+            <help/>
+            <hint/>
+            <label>Changed</label>
+            <language>en</language>
+            <name>u_imp_tmpl_x_207079_technolog_radar</name>
+            <plural>Changed</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-03-16 20:27:14</sys_created_on>
+            <sys_id>4dc72dc34f7013000468f3117310c7a6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Changed</sys_name>
+            <sys_package display_value="Technology Radar" source="x_207079_technolog">388f1d8f4f3013000468f3117310c723</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Technology Radar">388f1d8f4f3013000468f3117310c723</sys_scope>
+            <sys_update_name>sys_documentation_u_imp_tmpl_x_207079_technolog_radar_u_changed_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-03-16 20:27:14</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

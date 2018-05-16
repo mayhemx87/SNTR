@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element extends="sys_import_set_row" label="Imp Tmpl X 207079 Technolog Radar" max_length="40" name="u_imp_tmpl_x_207079_technolog_radar" type="collection">
+        <element attributes="import_attribute_name=Changed,edge_encryption_enabled=true" label="Changed" max_length="40" name="u_changed" type="string"/>
+        <element attributes="import_attribute_name=Classification,edge_encryption_enabled=true" label="Classification" max_length="40" name="u_classification" type="string"/>
+        <element attributes="import_attribute_name=Description,edge_encryption_enabled=true" label="Description" max_length="1000" name="u_description" type="string"/>
+        <element attributes="import_attribute_name=Links,edge_encryption_enabled=true" label="Links" max_length="1000" name="u_links" type="string"/>
+        <element attributes="import_attribute_name=Sector,edge_encryption_enabled=true" label="Sector" max_length="40" name="u_sector" type="string"/>
+        <element attributes="import_attribute_name=Technology,edge_encryption_enabled=true" label="Technology" max_length="50" name="u_technology" type="string"/>
+        <element attributes="import_attribute_name=Version,edge_encryption_enabled=true" label="Version" max_length="20" name="u_version" type="string"/>
+    </element>
+</database>
