@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update node_type="sys_portal_page" unload_date="2018-06-11 16:33:56">
+    <sys_portal_page action="INSERT_OR_UPDATE">
+        <layout display_value="layout_2_across">f6defafa0a0a0b12000d5016bd12ff06</layout>
+        <order/>
+        <read_roles/>
+        <roles/>
+        <selectable>true</selectable>
+        <sys_class_name>sys_portal_page</sys_class_name>
+        <sys_created_by>bkolosky</sys_created_by>
+        <sys_created_on>2018-06-11 16:30:54</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_domain>global</sys_domain>
+        <sys_id>c5e3380bdb6a5f40b9877b1cbf9619a9</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>Technology Radar</sys_name>
+        <sys_overrides/>
+        <sys_package/>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Technology Radar">388f1d8f4f3013000468f3117310c723</sys_scope>
+        <sys_update_name>sys_portal_page_c5e3380bdb6a5f40b9877b1cbf9619a9</sys_update_name>
+        <sys_updated_by>bkolosky</sys_updated_by>
+        <sys_updated_on>2018-06-11 16:33:02</sys_updated_on>
+        <title>Technology Radar</title>
+        <user/>
+        <view/>
+        <related_items_node>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone>dropzone1</dropzone>
+                <offset>0</offset>
+                <page display_value="Technology Radar">c5e3380bdb6a5f40b9877b1cbf9619a9</page>
+                <summary/>
+                <sys_created_by>bkolosky</sys_created_by>
+                <sys_created_on>2018-06-11 16:30:58</sys_created_on>
+                <sys_id>60047c0bdb6a5f40b9877b1cbf961904</sys_id>
+                <sys_mod_count>0</sys_mod_count>
+                <sys_updated_by>bkolosky</sys_updated_by>
+                <sys_updated_on>2018-06-11 16:30:58</sys_updated_on>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>can_publish</name>
+                        <portal_section display_value="Created 06-11-2018 09:30:58 AM">60047c0bdb6a5f40b9877b1cbf961904</portal_section>
+                        <sys_created_by>bkolosky</sys_created_by>
+                        <sys_created_on>2018-06-11 16:30:58</sys_created_on>
+                        <sys_id>60047c0bdb6a5f40b9877b1cbf961905</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>bkolosky</sys_updated_by>
+                        <sys_updated_on>2018-06-11 16:30:58</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>can_subscribe</name>
+                        <portal_section display_value="Created 06-11-2018 09:30:58 AM">60047c0bdb6a5f40b9877b1cbf961904</portal_section>
+                        <sys_created_by>bkolosky</sys_created_by>
+                        <sys_created_on>2018-06-11 16:30:58</sys_created_on>
+                        <sys_id>64047c0bdb6a5f40b9877b1cbf961905</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>bkolosky</sys_updated_by>
+                        <sys_updated_on>2018-06-11 16:30:58</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 06-11-2018 09:30:58 AM">60047c0bdb6a5f40b9877b1cbf961904</portal_section>
+                        <sys_created_by>bkolosky</sys_created_by>
+                        <sys_created_on>2018-06-11 16:30:58</sys_created_on>
+                        <sys_id>68047c0bdb6a5f40b9877b1cbf961904</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>bkolosky</sys_updated_by>
+                        <sys_updated_on>2018-06-11 16:30:58</sys_updated_on>
+                        <value>com.glide.ui.portal.RenderReport</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>report_type</name>
+                        <portal_section display_value="Created 06-11-2018 09:30:58 AM">60047c0bdb6a5f40b9877b1cbf961904</portal_section>
+                        <sys_created_by>bkolosky</sys_created_by>
+                        <sys_created_on>2018-06-11 16:30:58</sys_created_on>
+                        <sys_id>68047c0bdb6a5f40b9877b1cbf961905</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>bkolosky</sys_updated_by>
+                        <sys_updated_on>2018-06-11 16:30:58</sys_updated_on>
+                        <value>donut</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>help_text_window</name>
+                        <portal_section display_value="Created 06-11-2018 09:30:58 AM">60047c0bdb6a5f40b9877b1cbf961904</portal_section>
+                        <sys_created_by>bkolosky</sys_created_by>
+                        <sys_created_on>2018-06-11 16:30:58</sys_created_on>
+                        <sys_id>6c047c0bdb6a5f40b9877b1cbf961904</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>bkolosky</sys_updated_by>
+                        <sys_updated_on>2018-06-11 16:30:58</sys_updated_on>
+                        <value>report_widget_description</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 06-11-2018 09:30:58 AM">60047c0bdb6a5f40b9877b1cbf961904</portal_section>
+                        <sys_created_by>bkolosky</sys_created_by>
+                        <sys_created_on>2018-06-11 16:30:58</sys_created_on>
+                        <sys_id>6c047c0bdb6a5f40b9877b1cbf961905</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>bkolosky</sys_updated_by>
+                        <sys_updated_on>2018-06-11 16:30:58</sys_updated_on>
+                        <value>Radar Classifications</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 06-11-2018 09:30:58 AM">60047c0bdb6a5f40b9877b1cbf961904</portal_section>
+                        <sys_created_by>bkolosky</sys_created_by>
+                        <sys_created_on>2018-06-11 16:30:58</sys_created_on>
+                        <sys_id>e0047c0bdb6a5f40b9877b1cbf961904</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>bkolosky</sys_updated_by>
+                        <sys_updated_on>2018-06-11 16:30:58</sys_updated_on>
+                        <value>f1f9a5074f7013000468f3117310c724</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>current_page</name>
+                        <portal_section display_value="Created 06-11-2018 09:30:58 AM">60047c0bdb6a5f40b9877b1cbf961904</portal_section>
+                        <sys_created_by>bkolosky</sys_created_by>
+                        <sys_created_on>2018-06-11 16:30:58</sys_created_on>
+                        <sys_id>e0047c0bdb6a5f40b9877b1cbf961906</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>bkolosky</sys_updated_by>
+                        <sys_updated_on>2018-06-11 16:30:58</sys_updated_on>
+                        <value>1340794b4f7013000468f3117310c75f</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone>dropzone2</dropzone>
+                <offset>0</offset>
+                <page display_value="Technology Radar">c5e3380bdb6a5f40b9877b1cbf9619a9</page>
+                <summary/>
+                <sys_created_by>bkolosky</sys_created_by>
+                <sys_created_on>2018-06-11 16:30:58</sys_created_on>
+                <sys_id>68047c0bdb6a5f40b9877b1cbf961906</sys_id>
+                <sys_mod_count>0</sys_mod_count>
+                <sys_updated_by>bkolosky</sys_updated_by>
+                <sys_updated_on>2018-06-11 16:30:58</sys_updated_on>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 06-11-2018 09:30:58 AM">68047c0bdb6a5f40b9877b1cbf961906</portal_section>
+                        <sys_created_by>bkolosky</sys_created_by>
+                        <sys_created_on>2018-06-11 16:30:58</sys_created_on>
+                        <sys_id>60047c0bdb6a5f40b9877b1cbf961907</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>bkolosky</sys_updated_by>
+                        <sys_updated_on>2018-06-11 16:30:58</sys_updated_on>
+                        <value>com.glide.ui.portal.RenderReport</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 06-11-2018 09:30:58 AM">68047c0bdb6a5f40b9877b1cbf961906</portal_section>
+                        <sys_created_by>bkolosky</sys_created_by>
+                        <sys_created_on>2018-06-11 16:30:58</sys_created_on>
+                        <sys_id>60047c0bdb6a5f40b9877b1cbf961908</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>bkolosky</sys_updated_by>
+                        <sys_updated_on>2018-06-11 16:30:58</sys_updated_on>
+                        <value>Radar Sectors</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>help_text_window</name>
+                        <portal_section display_value="Created 06-11-2018 09:30:58 AM">68047c0bdb6a5f40b9877b1cbf961906</portal_section>
+                        <sys_created_by>bkolosky</sys_created_by>
+                        <sys_created_on>2018-06-11 16:30:58</sys_created_on>
+                        <sys_id>64047c0bdb6a5f40b9877b1cbf961907</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>bkolosky</sys_updated_by>
+                        <sys_updated_on>2018-06-11 16:30:58</sys_updated_on>
+                        <value>report_widget_description</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>can_subscribe</name>
+                        <portal_section display_value="Created 06-11-2018 09:30:58 AM">68047c0bdb6a5f40b9877b1cbf961906</portal_section>
+                        <sys_created_by>bkolosky</sys_created_by>
+                        <sys_created_on>2018-06-11 16:30:58</sys_created_on>
+                        <sys_id>68047c0bdb6a5f40b9877b1cbf961907</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>bkolosky</sys_updated_by>
+                        <sys_updated_on>2018-06-11 16:30:58</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>report_type</name>
+                        <portal_section display_value="Created 06-11-2018 09:30:58 AM">68047c0bdb6a5f40b9877b1cbf961906</portal_section>
+                        <sys_created_by>bkolosky</sys_created_by>
+                        <sys_created_on>2018-06-11 16:30:58</sys_created_on>
+                        <sys_id>6c047c0bdb6a5f40b9877b1cbf961907</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>bkolosky</sys_updated_by>
+                        <sys_updated_on>2018-06-11 16:30:58</sys_updated_on>
+                        <value>donut</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>current_page</name>
+                        <portal_section display_value="Created 06-11-2018 09:30:58 AM">68047c0bdb6a5f40b9877b1cbf961906</portal_section>
+                        <sys_created_by>bkolosky</sys_created_by>
+                        <sys_created_on>2018-06-11 16:30:58</sys_created_on>
+                        <sys_id>e4047c0bdb6a5f40b9877b1cbf961908</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>bkolosky</sys_updated_by>
+                        <sys_updated_on>2018-06-11 16:30:58</sys_updated_on>
+                        <value>1340794b4f7013000468f3117310c75f</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 06-11-2018 09:30:58 AM">68047c0bdb6a5f40b9877b1cbf961906</portal_section>
+                        <sys_created_by>bkolosky</sys_created_by>
+                        <sys_created_on>2018-06-11 16:30:58</sys_created_on>
+                        <sys_id>e8047c0bdb6a5f40b9877b1cbf961906</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>bkolosky</sys_updated_by>
+                        <sys_updated_on>2018-06-11 16:30:58</sys_updated_on>
+                        <value>de7a61874f7013000468f3117310c707</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+        </related_items_node>
+    </sys_portal_page>
+</record_update>

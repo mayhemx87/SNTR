@@ -6,12 +6,12 @@
         <array_denormalized>false</array_denormalized>
         <attributes/>
         <audit>false</audit>
-        <calculation><![CDATA[(function calculatedFieldValue(current) {
+        <calculation>(function calculatedFieldValue(current) {
 
 	// Add your code here
 	return '';  // return the calculated value
 
-})(current);]]></calculation>
+})(current);</calculation>
         <choice/>
         <choice_field/>
         <choice_table/>
@@ -31,8 +31,6 @@
         <element/>
         <element_reference>false</element_reference>
         <foreign_database/>
-        <function_definition/>
-        <function_field>false</function_field>
         <internal_type display_value="Collection">collection</internal_type>
         <mandatory>false</mandatory>
         <max_length>40</max_length>
@@ -54,15 +52,17 @@
         <sys_class_name>sys_dictionary</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2018-03-16 19:54:53</sys_created_on>
-        <sys_id>9f5025cf4f3013000468f3117310c7de</sys_id>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>c65e6c43db6a5f40b9877b1cbf9619f8</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>x_207079_technolog_radar</sys_name>
         <sys_package display_value="Technology Radar" source="x_207079_technolog">388f1d8f4f3013000468f3117310c723</sys_package>
         <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
         <sys_scope display_value="Technology Radar">388f1d8f4f3013000468f3117310c723</sys_scope>
-        <sys_update_name>sys_dictionary_x_207079_technolog_radar_null</sys_update_name>
-        <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2018-03-16 19:54:53</sys_updated_on>
+        <sys_update_name>sys_dictionary_x_207079_technolog_radar_NULL</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2018-06-11 16:06:17</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>

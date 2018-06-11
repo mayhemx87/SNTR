@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_ui_view">
+    <sys_ui_view action="INSERT_OR_UPDATE">
+        <group/>
+        <hidden>false</hidden>
+        <name>rpt-tempeabf91501349e240292a7e276144b0d5bkolosky</name>
+        <roles/>
+        <sys_class_name>sys_ui_view</sys_class_name>
+        <sys_created_by>bkolosky</sys_created_by>
+        <sys_created_on>2018-06-11 16:29:13</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>c393f00bdb6a5f40b9877b1cbf9619cd</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package/>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Technology Radar">388f1d8f4f3013000468f3117310c723</sys_scope>
+        <sys_update_name/>
+        <sys_updated_by>bkolosky</sys_updated_by>
+        <sys_updated_on>2018-06-11 16:29:13</sys_updated_on>
+        <title>Rpt-tempeabf91501349e240292a7e276144b0d5bkolosky</title>
+        <user/>
+    </sys_ui_view>
+</record_update>

@@ -8,14 +8,15 @@
         <sys_class_name>pa_m2m_dashboard_tabs</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2018-03-16 20:49:47</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
         <sys_domain>global</sys_domain>
-        <sys_domain_path>/</sys_domain_path>
         <sys_id>dfec29c74f7013000468f3117310c728</sys_id>
         <sys_mod_count>1</sys_mod_count>
         <sys_name>5fec29c74f7013000468f3117310c724</sys_name>
         <sys_overrides/>
         <sys_package display_value="Technology Radar" source="x_207079_technolog">388f1d8f4f3013000468f3117310c723</sys_package>
         <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
         <sys_scope display_value="Technology Radar">388f1d8f4f3013000468f3117310c723</sys_scope>
         <sys_update_name>pa_m2m_dashboard_tabs_dfec29c74f7013000468f3117310c728</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>

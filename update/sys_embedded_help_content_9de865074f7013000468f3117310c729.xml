@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<record_update sys_domain="global" table="sys_embedded_help_content">
+<record_update table="sys_embedded_help_content">
     <sys_embedded_help_content action="INSERT_OR_UPDATE">
         <active>true</active>
         <category>reporting</category>
@@ -16,18 +16,17 @@
         <sys_class_name>sys_embedded_help_content</sys_class_name>
         <sys_created_by>system</sys_created_by>
         <sys_created_on>2018-03-16 20:32:09</sys_created_on>
-        <sys_domain>global</sys_domain>
-        <sys_domain_path>/</sys_domain_path>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>9de865074f7013000468f3117310c729</sys_id>
         <sys_mod_count>3</sys_mod_count>
         <sys_name>report_home-normal</sys_name>
         <sys_package display_value="Technology Radar" source="x_207079_technolog">388f1d8f4f3013000468f3117310c723</sys_package>
         <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
         <sys_scope display_value="Technology Radar">388f1d8f4f3013000468f3117310c723</sys_scope>
         <sys_update_name>sys_embedded_help_content_9de865074f7013000468f3117310c729</sys_update_name>
         <sys_updated_by>system</sys_updated_by>
         <sys_updated_on>2018-05-05 01:12:30</sys_updated_on>
         <version>j</version>
     </sys_embedded_help_content>
-    <sys_translated_text action="delete_multiple" query="documentkey=9de865074f7013000468f3117310c729"/>
 </record_update>
